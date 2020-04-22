@@ -22,7 +22,7 @@ let MyDate = function (day, month, year) {
         this.year = value;
     };
     this.toString = function () {
-    return "dd/mm/yyyy"
+        return "dd/mm/yyyy"
     }
 
 };
